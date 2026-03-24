@@ -23,6 +23,8 @@
     <a href="admin_dashboard.jsp">Dashboard Home</a>
     <a href="add_doctor.jsp">Add Doctor</a>
     <a href="view_doctors.jsp">View Doctors</a>
+    <a href="add_patient.jsp">Add Patient</a>
+    <a href="view_patients.jsp">View Patients</a>
     <a href="index.jsp" class="logout">Logout</a>
 </div>
 
